@@ -1,0 +1,21 @@
+{
+    "serverstatus":"open",
+    "servermeassage":"We Are working on updates",
+    "opentime":"Server will open soon...",
+    "version": "2.2",
+    "releaseDate": "2023-05-16",
+    "changes":[
+        "fixed Crash isshu Notices recently🤯",
+        "Added Metereal ui Day theme🤩",
+        "New Progressbar Animation🤩",
+         "Fixed landscape mode bug🥳",
+         "fixed dark and day theme🙂",
+         "fixed dpi to layout ishu🤩",
+         "Removed debugging🤓",
+         "fixed the crash log activity ishu🤩",
+        "fixed more un wanted bugs like downloaded files are deleted after activity restarts😙"
+       
+    ],
+    "downloadUrl": "https://github.com/ALEX5402/lib_online/releases/download/openesp/app-release-2.2.apk", 
+    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+}
