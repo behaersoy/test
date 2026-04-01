@@ -8,3 +8,43 @@
     ],
     "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
 }
+{
+    "serverstatus":"copsemu",
+    "version": "1.0",
+    "gameversion": "1.0",
+    "releaseDate": "2026-02-11",
+    "changes":[
+        "fixed Crash isshu Notices recently🤯"
+    ],
+    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+}
+{
+    "serverstatus":"pubg",
+    "version": "1.0",
+    "gameversion": "4.3.0",
+    "releaseDate": "2026-04.1",
+    "changes":[
+        "Updated for loader"
+    ],
+    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+}
+{
+    "serverstatus":"copsnoroot",
+    "version": "1.0",
+    "gameversion": "1.0",
+    "releaseDate": "2026-02-11",
+    "changes":[
+        "fixed Crash isshu Notices recently🤯"
+    ],
+    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+}
+{
+    "serverstatus":"wild",
+    "version": "1.0",
+    "gameversion": "1.0",
+    "releaseDate": "2026-02-11",
+    "changes":[
+        "fixed Crash isshu Notices recently🤯"
+    ],
+    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+}
