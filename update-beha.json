@@ -1,6 +1,7 @@
 {
     "serverstatus":"copsroot",
     "version": "1.0",
+    "gameversion": "1.0",
     "releaseDate": "2026-02-11",
     "changes":[
         "fixed Crash isshu Notices recently🤯"
