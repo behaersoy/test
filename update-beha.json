@@ -8,6 +8,7 @@
 {
     "serverstatus":"copsroot",
     "type":"external",
+    "gyro":"false",
     "version": "1.0",
     "gameversion": "1.0",
     "releaseDate": "2026-02-11",
@@ -19,6 +20,7 @@
 {
     "serverstatus":"copsemu",
         "type":"emulator",
+     "gyro":"false",
     "version": "1.0",
     "gameversion": "1.0",
     "releaseDate": "2026-02-11",
@@ -30,6 +32,7 @@
 {
     "serverstatus":"pubg",
         "type":"kernel",
+     "gyro":"true",
     "version": "1.0",
     "gameversion": "4.3.0",
     "releaseDate": "2026-04.1",
@@ -41,6 +44,7 @@
 {
     "serverstatus":"copsnoroot",
         "type":"noroot",
+     "gyro":"false",
     "version": "1.0",
     "gameversion": "1.0",
     "releaseDate": "2026-02-11",
@@ -52,6 +56,7 @@
 {
     "serverstatus":"wild",
         "type":"external",
+     "gyro":"false",
     "version": "1.0",
     "gameversion": "7.0.0",
     "releaseDate": "2026-02-11",
