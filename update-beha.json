@@ -12,6 +12,7 @@
     "version": "1.0",
     "gameversion": "1.60.0.f3132",
     "releaseDate": "2026-04-03",
+      "auto":"true"
     "changes":[
         "Updated for Loader"
     ],
@@ -24,6 +25,7 @@
     "version": "1.0",
     "gameversion": "1.60.0.f3132",
     "releaseDate": "2026-02-11",
+     "auto":"false"
     "changes":[
         "fixed Crash isshu Notices recently🤯"
     ],
@@ -35,6 +37,7 @@
      "gyro":"true",
     "version": "1.0",
     "gameversion": "4.3.0",
+     "auto":"false"
     "releaseDate": "2026-04.1",
     "changes":[
         "Updated for loader"
@@ -47,6 +50,7 @@
      "gyro":"false",
     "version": "1.0",
     "gameversion": "1.0",
+     "auto":"true"
     "releaseDate": "2026-02-11",
     "changes":[
         "fixed Crash isshu Notices recently🤯"
@@ -59,6 +63,7 @@
      "gyro":"false",
     "version": "1.0",
     "gameversion": "7.0.0",
+     "auto":"false"
     "releaseDate": "2026-02-11",
     "changes":[
         "fixed Crash isshu Notices recently🤯"
