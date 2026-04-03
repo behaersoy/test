@@ -1,7 +1,7 @@
 {
-    "appversion":"1.1.0",
+    "appversion":"1.0.0",
       "changes":[
-        "fixed Crash isshu Notices recently🤯"
+        "SELAMS"
     ],
     "kernel":"https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
 }
@@ -25,10 +25,10 @@
      "gyro":"false",
     "version": "1.0",
     "gameversion": "1.60.0.f3132",
-    "releaseDate": "2026-02-11",
+  "releaseDate": "2026-04-03",
      "auto":"false"
-    "changes":[
-        "fixed Crash isshu Notices recently🤯"
+     "changes":[
+        "Updated for Loader"
     ],
   "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/copsemu"
 }
@@ -52,11 +52,11 @@
     "version": "1.0",
     "gameversion": "1.0",
      "auto":"true"
-    "releaseDate": "2026-02-11",
+  "releaseDate": "2026-04-03",
     "changes":[
-        "fixed Crash isshu Notices recently🤯"
+        "Updated for Loader"
     ],
-    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+    "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot"
 }
 {
     "serverstatus":"wild",
@@ -65,9 +65,9 @@
     "version": "1.0",
     "gameversion": "7.0.0",
      "auto":"false"
-    "releaseDate": "2026-02-11",
+  "releaseDate": "2026-04-03",
     "changes":[
-        "fixed Crash isshu Notices recently🤯"
+        "Updated for Loader"
     ],
-    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+    "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/wildext"
 }
