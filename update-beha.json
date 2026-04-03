@@ -22,12 +22,12 @@
         "type":"emulator",
      "gyro":"false",
     "version": "1.0",
-    "gameversion": "1.0",
+    "gameversion": "1.60.0.f3132",
     "releaseDate": "2026-02-11",
     "changes":[
         "fixed Crash isshu Notices recently🤯"
     ],
-    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+  "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/copsemu"
 }
 {
     "serverstatus":"pubg",
