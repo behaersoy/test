@@ -11,7 +11,7 @@
     "type":"external",
     "gyro":"false",
     "version": "1.0",
-    "gameversion": "1.60.0.f3132",
+    "gameversion": "1.60.0.f3141",
     "releaseDate": "2026-04-03",
       "auto":"true"
     "changes":[
@@ -23,8 +23,8 @@
     "serverstatus":"copsemu",
         "type":"emulator",
      "gyro":"false",
-    "version": "1.0",
-    "gameversion": "1.60.0.f3132",
+    "version": "1.0", 
+    "gameversion": "1.60.0.f3141",
   "releaseDate": "2026-04-03",
      "auto":"false"
      "changes":[
@@ -50,7 +50,7 @@
         "type":"noroot",
      "gyro":"false",
     "version": "1.0",
-    "gameversion": "1.0",
+      "gameversion": "1.60.0.f3141",
      "auto":"true"
   "releaseDate": "2026-04-03",
     "changes":[
