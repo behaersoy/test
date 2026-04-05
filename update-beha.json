@@ -33,7 +33,7 @@
   "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/copsemu"
 }
 {
-    "serverstatus":"pubg",
+    "serverstatus":"pubgkernel",
         "type":"kernel",
      "gyro":"true",
     "version": "1.0",
@@ -43,7 +43,7 @@
     "changes":[
         "Updated for loader"
     ],
-    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+    "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/pubgkernel"
 }
 {
     "serverstatus":"copsnoroot",
