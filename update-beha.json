@@ -13,7 +13,7 @@
 {
     "serverstatus":"copsroot",
     "type":"external",
-    "gyro":"false",
+    "gyro":"true",
     "version": "1.0",
     "gameversion": "1.60.0.f3141",
     "releaseDate": "2026-04-03",
@@ -52,7 +52,7 @@
 {
     "serverstatus":"copsnoroot",
         "type":"noroot",
-     "gyro":"false",
+     "gyro":"true",
     "version": "1.0",
       "gameversion": "1.60.0.f3141",
      "auto":"true"
