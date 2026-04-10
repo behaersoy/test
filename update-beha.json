@@ -15,7 +15,7 @@
     "type":"external",
     "gyro":"true",
     "version": "1.0",
-    "gameversion": "1.60.0.f3141",
+    "gameversion": "1.60.0.f3149",
     "releaseDate": "2026-04-03",
       "auto":"true"
     "changes":[
@@ -28,7 +28,7 @@
         "type":"emulator",
      "gyro":"false",
     "version": "1.0", 
-    "gameversion": "1.60.0.f3141",
+    "gameversion": "1.60.0.f3149",
   "releaseDate": "2026-04-03",
      "auto":"false"
      "changes":[
@@ -54,7 +54,7 @@
         "type":"noroot",
      "gyro":"true",
     "version": "1.0",
-      "gameversion": "1.60.0.f3141",
+      "gameversion": "1.60.0.f3149",
      "auto":"true"
   "releaseDate": "2026-04-03",
     "changes":[
