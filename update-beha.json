@@ -12,13 +12,13 @@
         "type": "external",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.60.0.f3153",
+       
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsroot",
+       
         "releaseDate": "2026-04-03",
         "auto": "true",
         "changes": ["Updated for Loader"],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot",
+       
         "versions": [
             { "gameversion": "1.60.0.f3153", "binaryname": "copsroot3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3153" },
             { "gameversion": "1.60.0.f3163", "binaryname": "copsroot3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3163" },
@@ -30,13 +30,13 @@
         "type": "noroot",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.60.0.f3153",
+        
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsnoroot",
+      
         "releaseDate": "2026-04-03",
         "auto": "true",
         "changes": ["Updated for Loader"],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot",
+       
         "versions": [
             { "gameversion": "1.60.0.f3153", "binaryname": "copsnoroot3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3153" },
             { "gameversion": "1.60.0.f3163", "binaryname": "copsnoroot3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3163" },
@@ -48,13 +48,13 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.60.0.f3149",
+       
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu",
+       
         "releaseDate": "2026-04-03",
         "auto": "false",
         "changes": ["Updated for Loader"],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu",
+      
         "versions": [
             { "gameversion": "1.60.0.f3149", "binaryname": "copsemu3149", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3149" },
             { "gameversion": "1.60.0.f3153", "binaryname": "copsemu3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3153" },
