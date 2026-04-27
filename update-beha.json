@@ -1,4 +1,5 @@
-{
+[
+    {
         "appversion": "1.0.0",
         "changes": [
             "SELAMS"
@@ -21,7 +22,24 @@
         "changes": [
             "Updated for Loader"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot"
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot",
+        "versions": [
+            {
+                "gameversion": "1.60.0.f3153",
+                "binaryname": "copsroot3153",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3153"
+            },
+            {
+                "gameversion": "1.60.0.f3163",
+                "binaryname": "copsroot3163",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3163"
+            },
+            {
+                "gameversion": "1.60.0.f3172",
+                "binaryname": "copsroot3172",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3172"
+            }
+        ]
     },
     {
         "serverstatus": "copsemu",
@@ -66,7 +84,24 @@
         "changes": [
             "Updated for Loader"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot"
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot",
+        "versions": [
+            {
+                "gameversion": "1.60.0.f3153",
+                "binaryname": "copsnoroot3153",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3153"
+            },
+            {
+                "gameversion": "1.60.0.f3163",
+                "binaryname": "copsnoroot3163",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3163"
+            },
+            {
+                "gameversion": "1.60.0.f3172",
+                "binaryname": "copsnoroot3172",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3172"
+            }
+        ]
     },
     {
         "serverstatus": "wild",
