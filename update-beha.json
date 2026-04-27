@@ -70,7 +70,8 @@
         "versions": [
             { "gameversion": "1.60.0.f3149", "binaryname": "copsemu3149", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3149" },
             { "gameversion": "1.60.0.f3153", "binaryname": "copsemu3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3153" },
-            { "gameversion": "1.60.0.f3163", "binaryname": "copsemu3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3163" }
+            { "gameversion": "1.60.0.f3163", "binaryname": "copsemu3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3163" },
+            { "gameversion": "1.60.0.f3172", "binaryname": "copsemu3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3172" }
         ]
     },
     {
