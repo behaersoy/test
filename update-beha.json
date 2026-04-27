@@ -1,7 +1,8 @@
-[
-    {
+{
         "appversion": "1.0.0",
-        "changes": ["SELAMS"],
+        "changes": [
+            "SELAMS"
+        ],
         "kernel": "https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
     },
     {
@@ -17,7 +18,9 @@
         "binaryname": "copsroot",
         "releaseDate": "2026-04-03",
         "auto": "true",
-        "changes": ["Updated for Loader"],
+        "changes": [
+            "Updated for Loader"
+        ],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot"
     },
     {
@@ -30,7 +33,9 @@
         "binaryname": "copsemu",
         "releaseDate": "2026-04-03",
         "auto": "false",
-        "changes": ["Updated for Loader"],
+        "changes": [
+            "Updated for Loader"
+        ],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu"
     },
     {
@@ -43,9 +48,39 @@
         "binaryname": "pubgkernel",
         "releaseDate": "2026-04-01",
         "auto": "false",
-        "changes": ["Updated for loader"],
+        "changes": [
+            "Updated for loader"
+        ],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/pubgkernel"
     },
     {
         "serverstatus": "copsnoroot",
-        "type": "no
+        "type": "noroot",
+        "gyro": "true",
+        "version": "1.0",
+        "gameversion": "1.60.0.f3153",
+        "gamepkg": "com.criticalforceentertainment.criticalops",
+        "binaryname": "copsnoroot",
+        "releaseDate": "2026-04-03",
+        "auto": "true",
+        "changes": [
+            "Updated for Loader"
+        ],
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot"
+    },
+    {
+        "serverstatus": "wild",
+        "type": "external",
+        "gyro": "false",
+        "version": "1.0",
+        "gameversion": "7.0.0",
+        "gamepkg": "com.riotgames.league.wildrift",
+        "binaryname": "wildext",
+        "releaseDate": "2026-04-03",
+        "auto": "false",
+        "changes": [
+            "Updated for Loader"
+        ],
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/wildext"
+    }
+]
