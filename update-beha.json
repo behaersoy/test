@@ -1,9 +1,7 @@
 [
     {
         "appversion": "1.0.0",
-        "changes": [
-            "SELAMS"
-        ],
+        "changes": ["SELAMS"],
         "kernel": "https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
     },
     {
@@ -19,26 +17,30 @@
         "binaryname": "copsroot",
         "releaseDate": "2026-04-03",
         "auto": "true",
-        "changes": [
-            "Updated for Loader"
-        ],
+        "changes": ["Updated for Loader"],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot",
         "versions": [
-            {
-                "gameversion": "1.60.0.f3153",
-                "binaryname": "copsroot3153",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3153"
-            },
-            {
-                "gameversion": "1.60.0.f3163",
-                "binaryname": "copsroot3163",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3163"
-            },
-            {
-                "gameversion": "1.60.0.f3172",
-                "binaryname": "copsroot3172",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3172"
-            }
+            { "gameversion": "1.60.0.f3153", "binaryname": "copsroot3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3153" },
+            { "gameversion": "1.60.0.f3163", "binaryname": "copsroot3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3163" },
+            { "gameversion": "1.60.0.f3172", "binaryname": "copsroot3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3172" }
+        ]
+    },
+    {
+        "serverstatus": "copsnoroot",
+        "type": "noroot",
+        "gyro": "true",
+        "version": "1.0",
+        "gameversion": "1.60.0.f3153",
+        "gamepkg": "com.criticalforceentertainment.criticalops",
+        "binaryname": "copsnoroot",
+        "releaseDate": "2026-04-03",
+        "auto": "true",
+        "changes": ["Updated for Loader"],
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot",
+        "versions": [
+            { "gameversion": "1.60.0.f3153", "binaryname": "copsnoroot3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3153" },
+            { "gameversion": "1.60.0.f3163", "binaryname": "copsnoroot3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3163" },
+            { "gameversion": "1.60.0.f3172", "binaryname": "copsnoroot3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3172" }
         ]
     },
     {
@@ -51,10 +53,13 @@
         "binaryname": "copsemu",
         "releaseDate": "2026-04-03",
         "auto": "false",
-        "changes": [
-            "Updated for Loader"
-        ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu"
+        "changes": ["Updated for Loader"],
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu",
+        "versions": [
+            { "gameversion": "1.60.0.f3149", "binaryname": "copsemu3149", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3149" },
+            { "gameversion": "1.60.0.f3153", "binaryname": "copsemu3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3153" },
+            { "gameversion": "1.60.0.f3163", "binaryname": "copsemu3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3163" }
+        ]
     },
     {
         "serverstatus": "pubgkernel",
@@ -66,42 +71,8 @@
         "binaryname": "pubgkernel",
         "releaseDate": "2026-04-01",
         "auto": "false",
-        "changes": [
-            "Updated for loader"
-        ],
+        "changes": ["Updated for loader"],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/pubgkernel"
-    },
-    {
-        "serverstatus": "copsnoroot",
-        "type": "noroot",
-        "gyro": "true",
-        "version": "1.0",
-        "gameversion": "1.60.0.f3153",
-        "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsnoroot",
-        "releaseDate": "2026-04-03",
-        "auto": "true",
-        "changes": [
-            "Updated for Loader"
-        ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot",
-        "versions": [
-            {
-                "gameversion": "1.60.0.f3153",
-                "binaryname": "copsnoroot3153",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3153"
-            },
-            {
-                "gameversion": "1.60.0.f3163",
-                "binaryname": "copsnoroot3163",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3163"
-            },
-            {
-                "gameversion": "1.60.0.f3172",
-                "binaryname": "copsnoroot3172",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3172"
-            }
-        ]
     },
     {
         "serverstatus": "wild",
@@ -113,9 +84,7 @@
         "binaryname": "wildext",
         "releaseDate": "2026-04-03",
         "auto": "false",
-        "changes": [
-            "Updated for Loader"
-        ],
+        "changes": ["Updated for Loader"],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/wildext"
     }
 ]
