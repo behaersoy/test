@@ -1,77 +1,51 @@
-{
-    "appversion":"1.0.0",
-      "changes":[
-        "SELAMS"
-    ],
-    "kernel":"https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
-}
-{
-   
-    
-    "gyrofile":"https://github.com/behaersoy/test/raw/refs/heads/main/gyro_module.zip"
-}
-{
-    "serverstatus":"copsroot",
-    "type":"external",
-    "gyro":"true",
-    "version": "1.0",
-    "gameversion": "1.60.0.f3153",
-    "releaseDate": "2026-04-03",
-      "auto":"true"
-    "changes":[
-        "Updated for Loader"
-    ],
-    "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/copsroot"
-}
-{
-    "serverstatus":"copsemu",
-        "type":"emulator",
-     "gyro":"false",
-    "version": "1.0", 
-    "gameversion": "1.60.0.f3149",
-  "releaseDate": "2026-04-03",
-     "auto":"false"
-     "changes":[
-        "Updated for Loader"
-    ],
-  "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/copsemu"
-}
-{
-    "serverstatus":"pubgkernel",
-        "type":"kernel",
-     "gyro":"true",
-    "version": "1.0",
-    "gameversion": "4.3.0",
-     "auto":"false"
-    "releaseDate": "2026-04.1",
-    "changes":[
-        "Updated for loader"
-    ],
-    "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/pubgkernel"
-}
-{
-    "serverstatus":"copsnoroot",
-        "type":"noroot",
-     "gyro":"true",
-    "version": "1.0",
-      "gameversion": "1.60.0.f3153",
-     "auto":"true"
-  "releaseDate": "2026-04-03",
-    "changes":[
-        "Updated for Loader"
-    ],
-    "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot"
-}
-{
-    "serverstatus":"wild",
-        "type":"external",
-     "gyro":"false",
-    "version": "1.0",
-    "gameversion": "7.0.0",
-     "auto":"false"
-  "releaseDate": "2026-04-03",
-    "changes":[
-        "Updated for Loader"
-    ],
-    "libs":"https://github.com/behaersoy/test/raw/refs/heads/main/wildext"
-}
+[
+    {
+        "appversion": "1.0.0",
+        "changes": ["SELAMS"],
+        "kernel": "https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
+    },
+    {
+        "gyrofile": "https://github.com/behaersoy/test/raw/refs/heads/main/gyro_module.zip"
+    },
+    {
+        "serverstatus": "copsroot",
+        "type": "external",
+        "gyro": "true",
+        "version": "1.0",
+        "gameversion": "1.60.0.f3153",
+        "gamepkg": "com.criticalforceentertainment.criticalops",
+        "binaryname": "copsroot",
+        "releaseDate": "2026-04-03",
+        "auto": "true",
+        "changes": ["Updated for Loader"],
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot"
+    },
+    {
+        "serverstatus": "copsemu",
+        "type": "emulator",
+        "gyro": "false",
+        "version": "1.0",
+        "gameversion": "1.60.0.f3149",
+        "gamepkg": "com.criticalforceentertainment.criticalops",
+        "binaryname": "copsemu",
+        "releaseDate": "2026-04-03",
+        "auto": "false",
+        "changes": ["Updated for Loader"],
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu"
+    },
+    {
+        "serverstatus": "pubgkernel",
+        "type": "kernel",
+        "gyro": "true",
+        "version": "1.0",
+        "gameversion": "4.3.0",
+        "gamepkg": "com.tencent.ig",
+        "binaryname": "pubgkernel",
+        "releaseDate": "2026-04-01",
+        "auto": "false",
+        "changes": ["Updated for loader"],
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/pubgkernel"
+    },
+    {
+        "serverstatus": "copsnoroot",
+        "type": "no
