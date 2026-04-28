@@ -97,7 +97,7 @@
         "type": "external",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "7.0.0",
+        "gameversion": "7.1.0",
         "gamepkg": "com.riotgames.league.wildrift",
         "binaryname": "wildext",
         "releaseDate": "2026-04-03",
