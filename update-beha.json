@@ -31,7 +31,7 @@
         "versions": [
     
             { "gameversion": "1.60.0.f3172", "binaryname": "copsroot3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3172" }
-             { "gameversion": "1.60.0.f3172", "binaryname": "copsroot3191", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3191" }
+             { "gameversion": "1.60.0.f3191", "binaryname": "copsroot3191", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3191" }
         ]
     },
     {
