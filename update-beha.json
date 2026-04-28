@@ -75,7 +75,7 @@
         "versions": [
            
             { "gameversion": "1.60.0.f3172", "binaryname": "copsemu3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3172" }
-             { "gameversion": "1.60.0.f3172", "binaryname": "copsemu3191", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3191" }
+             { "gameversion": "1.60.0.f3191", "binaryname": "copsemu3191", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3191" }
         ]
     },
     {
