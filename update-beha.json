@@ -4,6 +4,11 @@
         "changes": ["SELAMS"],
         "kernel": "https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
     },
+     {
+        "duyuru": "true",
+        "changes": ["SELAMS"],
+       
+    },
     {
         "gyrofile": "https://github.com/behaersoy/test/raw/refs/heads/main/gyro_module.zip"
     },
