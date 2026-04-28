@@ -29,9 +29,9 @@
         ],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot",
         "versions": [
-            { "gameversion": "1.60.0.f3153", "binaryname": "copsroot3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3153" },
-            { "gameversion": "1.60.0.f3163", "binaryname": "copsroot3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3163" },
+    
             { "gameversion": "1.60.0.f3172", "binaryname": "copsroot3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3172" }
+             { "gameversion": "1.60.0.f3172", "binaryname": "copsroot3191", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3191" }
         ]
     },
     {
@@ -51,9 +51,9 @@
         ],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot",
         "versions": [
-            { "gameversion": "1.60.0.f3153", "binaryname": "copsnoroot3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3153" },
-            { "gameversion": "1.60.0.f3163", "binaryname": "copsnoroot3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3163" },
+           
             { "gameversion": "1.60.0.f3172", "binaryname": "copsnoroot3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3172" }
+             { "gameversion": "1.60.0.f3191", "binaryname": "copsnoroot3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3191" }
         ]
     },
     {
@@ -73,10 +73,9 @@
         ],
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu",
         "versions": [
-            { "gameversion": "1.60.0.f3149", "binaryname": "copsemu3149", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3149" },
-            { "gameversion": "1.60.0.f3153", "binaryname": "copsemu3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3153" },
-            { "gameversion": "1.60.0.f3163", "binaryname": "copsemu3163", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3163" },
+           
             { "gameversion": "1.60.0.f3172", "binaryname": "copsemu3172", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3172" }
+             { "gameversion": "1.60.0.f3172", "binaryname": "copsemu3191", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3191" }
         ]
     },
     {
