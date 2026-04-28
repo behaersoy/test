@@ -1,6 +1,6 @@
 [
     {
-        "appversion": "1.1.0",
+        "appversion": "1.0.0",
         "changes": ["SELAMS"],
         "kernel": "https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
     },
