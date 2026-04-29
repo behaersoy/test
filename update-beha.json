@@ -145,6 +145,6 @@
     "auto": false,
     "changes": ["Updated for Loader"],
     "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/wildext",
-    "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/wildemu"
+    "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/wildextemu"
   }
 ]
