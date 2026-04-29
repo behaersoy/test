@@ -140,6 +140,7 @@
     "gameversion": "7.1.0",
     "gamepkg": "com.riotgames.league.wildrift",
     "binaryname": "wildext",
+     "emubinaryname": "wildextemu",
     "releaseDate": "2026-04-03",
     "auto": false,
     "changes": ["Updated for Loader"],
