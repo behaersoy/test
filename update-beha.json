@@ -37,7 +37,7 @@
     "versions": [
       {
         "gameversion": "1.70.0.f3204",
-        "binaryname": "copsroot3172",
+         "binaryname": "copsemu3204",
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3204"
       },
       {
@@ -73,7 +73,7 @@
     "versions": [
       {
         "gameversion": "1.70.0.f3204",
-        "binaryname": "copsnoroot3172",
+        "binaryname": "copsemu3204",
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3204"
       },
       {
@@ -109,7 +109,7 @@
     "versions": [
       {
         "gameversion": "1.70.0.f3204",
-        "binaryname": "copsemu3172",
+        "binaryname": "copsemu3204",
         "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204"
       },
       {
