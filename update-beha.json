@@ -1,7 +1,6 @@
 [
   {
     "appversion": "1.0.0",
-    "changes": ["SELAMS"],
     "kernel": "https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
   },
   {
@@ -14,59 +13,47 @@
   {
     "serverstatus": "copsroot",
     "type": "external",
-    "gyro": true,
-    "version": "1.0",
     "gameversion": "1.70.0.f3204",
     "gamepkg": "com.criticalforceentertainment.criticalops",
     "binaryname": "copsroot",
     "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot",
     "versions": [
-      {
-        "gameversion": "1.70.0.f3204",
-        "binaryname": "copsroot3204",
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3204"
-      },
-      {
-        "gameversion": "1.60.0.f3191",
-        "binaryname": "copsroot3191",
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3191"
-      }
+      { "gameversion": "1.70.0.f3204", "binaryname": "copsroot3204", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3204" }
     ]
   },
   {
     "serverstatus": "copsnoroot",
     "type": "noroot",
-    "gyro": true,
-    "version": "1.0",
     "gameversion": "1.70.0.f3204",
     "gamepkg": "com.criticalforceentertainment.criticalops",
     "binaryname": "copsnoroot",
     "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot",
     "versions": [
-      {
-        "gameversion": "1.70.0.f3204",
-        "binaryname": "copsnoroot3204",
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3204"
-      }
+      { "gameversion": "1.70.0.f3204", "binaryname": "copsnoroot3204", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3204" }
     ]
   },
   {
     "serverstatus": "copsemu",
     "type": "emulator",
-    "gyro": false,
-    "version": "1.0",
     "gameversion": "1.70.0.f3204",
     "gamepkg": "com.criticalforceentertainment.criticalops",
     "binaryname": "copsemu",
     "emubinaryname": "copsemu_x86",
     "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204",
-    "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204_x86"
+    "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204_x86",
+    "versions": [
+      { 
+        "gameversion": "1.70.0.f3204", 
+        "binaryname": "copsemu3204", 
+        "emubinaryname": "copsemu3204_x86", 
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204", 
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204_x86" 
+      }
+    ]
   },
   {
     "serverstatus": "pubgkernel",
     "type": "kernel",
-    "gyro": true,
-    "version": "1.0",
     "gameversion": "4.3.0",
     "gamepkg": "com.tencent.ig",
     "binaryname": "pubgkernel",
@@ -75,8 +62,6 @@
   {
     "serverstatus": "wild",
     "type": "external",
-    "gyro": false,
-    "version": "1.0",
     "gameversion": "7.1.0",
     "gamepkg": "com.riotgames.league.wildrift",
     "binaryname": "wildext",
