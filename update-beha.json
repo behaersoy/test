@@ -5,7 +5,7 @@
   },
   {
     "duyuru": true,
-    "changes": ["WHSKY LOADER RELEASED :)"]
+    "changes": ["WHSKY LOADER: C-OPS Multi-Version Support Added!", "Emulator stability fixes applied."]
   },
   {
     "gyrofile": "https://github.com/behaersoy/test/raw/refs/heads/main/gyro_module.zip"
@@ -18,11 +18,9 @@
     "binaryname": "copsroot3204",
     "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3204",
     "versions": [
-      { 
-        "gameversion": "1.70.0.f3204", 
-        "binaryname": "copsroot3204", 
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3204" 
-      }
+      { "gameversion": "1.70.0.f3204", "binaryname": "copsroot3204", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3204" },
+      { "gameversion": "1.60.0.f3191", "binaryname": "copsroot3191", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3191" },
+      { "gameversion": "1.60.0.f3153", "binaryname": "copsroot3153", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3153" }
     ]
   },
   {
@@ -35,13 +33,24 @@
     "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204",
     "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204",
     "versions": [
-      { 
-        "gameversion": "1.70.0.f3204", 
-        "binaryname": "copsemu3204", 
-        "emubinaryname": "copsemu3204", 
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204", 
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204" 
-      }
+      { "gameversion": "1.70.0.f3204", "binaryname": "copsemu3204", "emubinaryname": "copsemu3204", "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204", "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204" }
     ]
+  },
+  {
+    "serverstatus": "pubgkernel",
+    "type": "kernel",
+    "gameversion": "4.3.0",
+    "gamepkg": "com.tencent.ig",
+    "binaryname": "pubgkernel",
+    "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/pubgkernel"
+  },
+  {
+    "serverstatus": "wild",
+    "type": "external",
+    "gameversion": "7.1.0",
+    "gamepkg": "com.riotgames.league.wildrift",
+    "binaryname": "wildext",
+    "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/wildext",
+    "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/wildextemu"
   }
 ]
