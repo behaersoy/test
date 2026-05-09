@@ -24,7 +24,7 @@
         "gamepkg": "com.criticalforceentertainment.criticalops",
         "binaryname": "copsroot3204",
         "releaseDate": "2026-05-09",
-        "auto": "true",
+        "auto": "false",
         "changes": ["Updated for Loader v1.0"],
         "blocked_ips": [
             "13.249.8.60", "13.249.8.27", "13.249.8.87", "13.249.8.7", 
@@ -49,7 +49,7 @@
         "gamepkg": "com.criticalforceentertainment.criticalops",
         "binaryname": "copsnoroot3204",
         "releaseDate": "2026-05-09",
-        "auto": "true",
+        "auto": "false",
         "changes": ["Updated for Loader v1.0"],
         "blocked_ips": [
             "13.249.8.60", "13.249.8.27", "13.249.8.87", "13.249.8.7", 
@@ -75,7 +75,7 @@
         "binaryname": "copsemu3204",
         "emubinaryname": "copsemu3204",
         "releaseDate": "2026-05-09",
-        "auto": "true",
+        "auto": "false",
         "changes": ["Updated for Loader v1.0"],
         "blocked_ips": [
             "13.249.8.60", "13.249.8.27", "13.249.8.87", "13.249.8.7", 
