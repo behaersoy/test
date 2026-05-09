@@ -8,6 +8,14 @@
         "gyrofile": "https://github.com/behaersoy/test/raw/refs/heads/main/gyro_module.zip"
     },
     {
+        "duyuru": "true",
+        "changes": [
+            "WHSKY LOADER: C-OPS Multi-Version Support Added!",
+            "Emulator stability fixes applied.",
+            "Version 1.70.0.f3204 is now officially supported."
+        ]
+    },
+    {
         "serverstatus": "copsroot",
         "type": "external",
         "gyro": "true",
