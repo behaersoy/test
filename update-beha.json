@@ -150,10 +150,10 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.70.0.f3221",
+        "gameversion": "1.70.0.f3224",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3221",
-        "emubinaryname": "copsemu3221",
+        "binaryname": "copsemu3224",
+        "emubinaryname": "copsemu3224",
         "releaseDate": "2026-05-15",
         "auto": "false",
         "changes": [
@@ -195,11 +195,11 @@
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3207"
             },
             {
-                "gameversion": "1.70.0.f3204",
-                "binaryname": "copsemu3204",
-                "emubinaryname": "copsemu3204",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204",
-                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3204"
+                "gameversion": "1.70.0.f3224",
+                "binaryname": "copsemu3224",
+                "emubinaryname": "copsemu3224",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3224",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3224"
             },
             {
                 "gameversion": "1.70.0.f3221",
