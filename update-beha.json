@@ -12,7 +12,7 @@
     {
         "duyuru": "true",
         "changes": [
-            "3238 updated and Sound Esp Added"
+            "3244 updated and Sound Esp Added"
         ]
     },
     {
@@ -20,9 +20,9 @@
         "type": "external",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.70.0.f3238",
+        "gameversion": "1.70.0.f3244",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsroot3238",
+        "binaryname": "copsroot3244",
         "releaseDate": "2026-05-15",
         "auto": "false",
         "changes": [
@@ -39,9 +39,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3238",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3238",
-        "emubinaryname": "copsroot3238",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3244",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3244",
+        "emubinaryname": "copsroot3244",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -69,11 +69,6 @@
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3224"
             },
             {
-                "gameversion": "1.60.0.f3191",
-                "binaryname": "copsroot3191",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3191"
-            },
-            {
                 "gameversion": "1.70.0.f3221",
                 "binaryname": "copsroot3221",
                 "emubinaryname": "copsroot3221",
@@ -86,6 +81,13 @@
                 "emubinaryname": "copsroot3238",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3238",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3238"
+            },
+            {
+                "gameversion": "1.70.0.f3244",
+                "binaryname": "copsroot3244",
+                "emubinaryname": "copsroot3244",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3244",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3244"
             }
         ]
     },
@@ -94,9 +96,9 @@
         "type": "noroot",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.70.0.f3238",
+        "gameversion": "1.70.0.f3244",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsnoroot3238",
+        "binaryname": "copsnoroot3244",
         "releaseDate": "2026-05-15",
         "auto": "false",
         "changes": [
@@ -113,9 +115,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3238",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3238",
-        "emubinaryname": "copsnoroot3238",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3244",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3244",
+        "emubinaryname": "copsnoroot3244",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -139,11 +141,6 @@
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3224"
             },
             {
-                "gameversion": "1.60.0.f3191",
-                "binaryname": "copsnoroot3191",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3191"
-            },
-            {
                 "gameversion": "1.70.0.f3221",
                 "binaryname": "copsnoroot3221",
                 "emubinaryname": "copsnoroot3221",
@@ -156,6 +153,13 @@
                 "emubinaryname": "copsnoroot3238",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3238",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3238"
+            },
+            {
+                "gameversion": "1.70.0.f3244",
+                "binaryname": "copsnoroot3244",
+                "emubinaryname": "copsnoroot3244",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3244",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3244"
             }
         ]
     },
@@ -164,10 +168,10 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.70.0.f3238",
+        "gameversion": "1.70.0.f3244",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3238",
-        "emubinaryname": "copsemu3238",
+        "binaryname": "copsemu3244",
+        "emubinaryname": "copsemu3244",
         "releaseDate": "2026-05-15",
         "auto": "false",
         "changes": [
@@ -184,8 +188,8 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3238",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3238",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3244",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3244",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -228,6 +232,13 @@
                 "emubinaryname": "copsemu3238",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3238",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3238"
+            },
+            {
+                "gameversion": "1.70.0.f3244",
+                "binaryname": "copsemu3244",
+                "emubinaryname": "copsemu3244",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3244",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3244"
             }
         ]
     },
