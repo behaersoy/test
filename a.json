@@ -5,6 +5,7 @@
         "il2cpp_string_new_rva": "0x1342865"
     },
     "Methods": {
+        "CharacterModel::O65BDD9E60": "0x199ACFA",
         "CameraSystem::O60CDA268E": "0x1921428",
         "GameSystem::CreateWeapon": "0x199396B",
         "Material::set_shader": "0x29E8C4D",
@@ -21,6 +22,7 @@
         "OBA016A17E::O7284E6497": "0x18DE51A",
         "Component::get_transform": "0x2A11549",
         "Material::HasProperty": "0x29E8F62",
+        "Physics::Linecast": "0x2A97AEC",
         "Camera::set_useOcclusionCulling": "0x29D0004",
         "Application::get_version": "0x29CBC51",
         "Material::get_shader": "0x29E8B77",
