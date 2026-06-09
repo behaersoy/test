@@ -182,100 +182,98 @@
         ]
     },
     {
-        {
-    "serverstatus": "copsemu",
-    "type": "emulator",
-    "gyro": "false",
-    "version": "1.0",
-    "gameversion": "1.70.0.f3258",
-    "gamepkg": "com.criticalforceentertainment.criticalops",
-    "binaryname": "copsemu3258",
-    "emubinaryname": "copsemu3258",
-    "releaseDate": "2026-06-09",
-    "auto": "false",
-    "changes": [
-        "Updated for Loader v1.0",
-        "3258 Support Added"
-    ],
-    "blocked_ips": [
-        "13.249.8.60",
-        "13.249.8.27",
-        "13.249.8.87",
-        "13.249.8.7",
-        "34.160.81.0",
-        "216.239.38.223",
-        "216.239.34.223",
-        "216.239.32.223",
-        "216.239.36.223"
-    ],
-    "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258",
-    "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258",
-    "versions": [
-        {
-            "gameversion": "1.70.0.f3216",
-            "binaryname": "copsemu3216",
-            "emubinaryname": "copsemu3216",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3216",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3216"
-        },
-        {
-            "gameversion": "1.70.0.f3210",
-            "binaryname": "copsemu3210",
-            "emubinaryname": "copsemu3210",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3210",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3210"
-        },
-        {
-            "gameversion": "1.70.0.f3224",
-            "binaryname": "copsemu3224",
-            "emubinaryname": "copsemu3224",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3224",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3224"
-        },
-        {
-            "gameversion": "1.70.0.f3221",
-            "binaryname": "copsemu3221",
-            "emubinaryname": "copsemu3221",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3221",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3221"
-        },
-        {
-            "gameversion": "1.70.0.f3238",
-            "binaryname": "copsemu3238",
-            "emubinaryname": "copsemu3238",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3238",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3238"
-        },
-        {
-            "gameversion": "1.70.0.f3244",
-            "binaryname": "copsemu3244",
-            "emubinaryname": "copsemu3244",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3244",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3244"
-        },
-        {
-            "gameversion": "1.70.0.f3249",
-            "binaryname": "copsemu3249",
-            "emubinaryname": "copsemu3249",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3249",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3249"
-        },
-        {
-            "gameversion": "1.70.0.f3251",
-            "binaryname": "copsemu3251",
-            "emubinaryname": "copsemu3251",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3251",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3251"
-        },
-        {
-            "gameversion": "1.70.0.f3258",
-            "binaryname": "copsemu3258",
-            "emubinaryname": "copsemu3258",
-            "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258",
-            "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258"
-        }
-    ]
-},
+        "serverstatus": "copsemu",
+        "type": "emulator",
+        "gyro": "false",
+        "version": "1.0",
+        "gameversion": "1.70.0.f3258",
+        "gamepkg": "com.criticalforceentertainment.criticalops",
+        "binaryname": "copsemu3258",
+        "emubinaryname": "copsemu3258",
+        "releaseDate": "2026-06-09",
+        "auto": "false",
+        "changes": [
+            "Updated for Loader v1.0"
+        ],
+        "blocked_ips": [
+            "13.249.8.60",
+            "13.249.8.27",
+            "13.249.8.87",
+            "13.249.8.7",
+            "34.160.81.0",
+            "216.239.38.223",
+            "216.239.34.223",
+            "216.239.32.223",
+            "216.239.36.223"
+        ],
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258",
+        "versions": [
+            {
+                "gameversion": "1.70.0.f3216",
+                "binaryname": "copsemu3216",
+                "emubinaryname": "copsemu3216",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3216",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3216"
+            },
+            {
+                "gameversion": "1.70.0.f3210",
+                "binaryname": "copsemu3210",
+                "emubinaryname": "copsemu3210",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3210",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3210"
+            },
+            {
+                "gameversion": "1.70.0.f3224",
+                "binaryname": "copsemu3224",
+                "emubinaryname": "copsemu3224",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3224",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3224"
+            },
+            {
+                "gameversion": "1.70.0.f3221",
+                "binaryname": "copsemu3221",
+                "emubinaryname": "copsemu3221",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3221",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3221"
+            },
+            {
+                "gameversion": "1.70.0.f3238",
+                "binaryname": "copsemu3238",
+                "emubinaryname": "copsemu3238",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3238",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3238"
+            },
+            {
+                "gameversion": "1.70.0.f3244",
+                "binaryname": "copsemu3244",
+                "emubinaryname": "copsemu3244",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3244",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3244"
+            },
+            {
+                "gameversion": "1.70.0.f3249",
+                "binaryname": "copsemu3249",
+                "emubinaryname": "copsemu3249",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3249",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3249"
+            },
+            {
+                "gameversion": "1.70.0.f3251",
+                "binaryname": "copsemu3251",
+                "emubinaryname": "copsemu3251",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3251",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3251"
+            },
+            {
+                "gameversion": "1.70.0.f3258",
+                "binaryname": "copsemu3258",
+                "emubinaryname": "copsemu3258",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258"
+            }
+        ]
+    },
     {
         "serverstatus": "pubgkernel",
         "type": "kernel",
