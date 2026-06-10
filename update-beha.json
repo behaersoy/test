@@ -200,7 +200,7 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.70.2.f3262",
+        "gameversion": "1.70.1.f3262",
         "gamepkg": "com.criticalforceentertainment.criticalops",
         "binaryname": "copsemu3262",
         "emubinaryname": "copsemu3262",
@@ -288,7 +288,7 @@
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3258"
             },
             {
-                "gameversion": "1.70.2.f3262",
+                "gameversion": "1.70.1.f3262",
                 "binaryname": "copsemu3262",
                 "emubinaryname": "copsemu3262",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3262",
