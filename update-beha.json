@@ -20,13 +20,14 @@
         "type": "external",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.70.1.f3258",
+        "gameversion": "1.70.1.f3262",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsroot3258",
-        "releaseDate": "2026-06-09",
+        "binaryname": "copsroot3262",
+        "releaseDate": "2026-06-10",
         "auto": "false",
         "changes": [
-            "Updated for Loader v1.0"
+            "Updated for Loader v1.0",
+            "Added 3262 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -39,9 +40,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3258",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3258",
-        "emubinaryname": "copsroot3258",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3262",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3262",
+        "emubinaryname": "copsroot3262",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -104,6 +105,13 @@
                 "emubinaryname": "copsroot3258",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3258",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3258"
+            },
+            {
+                "gameversion": "1.70.1.f3262",
+                "binaryname": "copsroot3262",
+                "emubinaryname": "copsroot3262",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3262",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3262"
             }
         ]
     },
@@ -112,13 +120,14 @@
         "type": "noroot",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.70.1.f3258",
+        "gameversion": "1.70.1.f3262",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsnoroot3258",
-        "releaseDate": "2026-06-09",
+        "binaryname": "copsnoroot3262",
+        "releaseDate": "2026-06-10",
         "auto": "false",
         "changes": [
-            "Updated for Loader v1.0"
+            "Updated for Loader v1.0",
+            "Added 3262 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -131,9 +140,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3258",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3258",
-        "emubinaryname": "copsnoroot3258",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3262",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3262",
+        "emubinaryname": "copsnoroot3262",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -192,6 +201,13 @@
                 "emubinaryname": "copsnoroot3258",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3258",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3258"
+            },
+            {
+                "gameversion": "1.70.1.f3262",
+                "binaryname": "copsnoroot3262",
+                "emubinaryname": "copsnoroot3262",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3262",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3262"
             }
         ]
     },
