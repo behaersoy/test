@@ -230,15 +230,15 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.70.1.f3263",
+        "gameversion": "1.70.1.f3272",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3263",
-        "emubinaryname": "copsemu3263",
-        "releaseDate": "2026-06-10",
+        "binaryname": "copsemu3272",
+        "emubinaryname": "copsemu3272",
+        "releaseDate": "2026-06-14",
         "auto": "false",
         "changes": [
             "Updated for Loader v1.0",
-            "Added 3262 and 3263 Emulator Support"
+            "Added 3272 Emulator Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -251,8 +251,8 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3263",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3263",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3272",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3272",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -330,6 +330,13 @@
                 "emubinaryname": "copsemu3263",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3263",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3263"
+            },
+            {
+                "gameversion": "1.70.1.f3272",
+                "binaryname": "copsemu3272",
+                "emubinaryname": "copsemu3272",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3272",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3272"
             }
         ]
     },
