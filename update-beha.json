@@ -272,15 +272,15 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.70.1.f3273",
+        "gameversion": "1.70.1.f3275",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3273",
-        "emubinaryname": "copsemu3273",
-        "releaseDate": "2026-06-15",
+        "binaryname": "copsemu3275",
+        "emubinaryname": "copsemu3275",
+        "releaseDate": "2026-06-17",
         "auto": "false",
         "changes": [
             "Updated for Loader v1.0",
-            "Added 3273 Support"
+            "Added 3275 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
