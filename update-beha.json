@@ -386,6 +386,13 @@
                 "emubinaryname": "copsemu3273",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3273",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3273"
+            },
+            {
+                "gameversion": "1.70.1.f3275",
+                "binaryname": "copsemu3275",
+                "emubinaryname": "copsemu3275",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3275",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3275"
             }
         ]
     },
