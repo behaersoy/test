@@ -1,8 +1,8 @@
 [
     {
-        "appversion": "1.1",
+        "appversion": "1.2",
         "changes": [
-            "Fixed Some Bugs"
+            "Added Player Searcher and Config Share/Load on Settings Tab"
         ],
         "kernel": "https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
     },
@@ -12,7 +12,7 @@
     {
         "duyuru": "true",
         "changes": [
-            "3251 updated and Sound Esp Added"
+            "3288 Updated"
         ]
     },
     {
