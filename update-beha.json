@@ -1,8 +1,8 @@
 [
     {
-        "appversion": "1.2",
+        "appversion": "1.1",
         "changes": [
-            "Added Player Searcher and Config Share/Load on Settings Tab"
+            "Fixed Some Bugs"
         ],
         "kernel": "https://github.com/behaersoy/test/raw/refs/heads/main/drivers_pack.zip"
     },
@@ -12,7 +12,7 @@
     {
         "duyuru": "true",
         "changes": [
-            "3288 Updated"
+            "3251 updated and Sound Esp Added"
         ]
     },
     {
@@ -314,15 +314,15 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.70.1.f3288",
+        "gameversion": "1.70.1.f3290",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3288",
-        "emubinaryname": "copsemu3288",
-        "releaseDate": "2026-07-01",
+        "binaryname": "copsemu3290",
+        "emubinaryname": "copsemu3290",
+        "releaseDate": "2026-07-07",
         "auto": "false",
         "changes": [
             "Updated for Loader v1.0",
-            "Added 3288 Support"
+            "Added 3290 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -335,8 +335,8 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3288",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3288",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3290",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3290",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -449,6 +449,13 @@
                 "emubinaryname": "copsemu3288",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3288",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3288"
+            },
+            {
+                "gameversion": "1.70.1.f3290",
+                "binaryname": "copsemu3290",
+                "emubinaryname": "copsemu3290",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3290",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3290"
             }
         ]
     },
