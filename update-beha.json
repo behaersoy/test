@@ -20,14 +20,14 @@
         "type": "external",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.70.1.f3302",
+        "gameversion": "1.70.1.f3300",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsroot3302",
+        "binaryname": "copsroot3300",
         "releaseDate": "2026-07-23",
         "auto": "false",
         "changes": [
             "Updated for Loader v1.0",
-            "Added 3302 Support"
+            "Added 3300 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -40,9 +40,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3302",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3302",
-        "emubinaryname": "copsroot3302",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3300",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3300",
+        "emubinaryname": "copsroot3300",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -232,14 +232,14 @@
         "type": "noroot",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.70.1.f3302",
+        "gameversion": "1.70.1.f3300",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsnoroot3302",
+        "binaryname": "copsnoroot3300",
         "releaseDate": "2026-07-23",
         "auto": "false",
         "changes": [
             "Updated for Loader v1.0",
-            "Added 3302 Support"
+            "Added 3300 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -252,9 +252,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3302",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3302",
-        "emubinaryname": "copsnoroot3302",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3300",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3300",
+        "emubinaryname": "copsnoroot3300",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -440,15 +440,15 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.70.1.f3302",
+        "gameversion": "1.70.1.f3300",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3302",
-        "emubinaryname": "copsemu3302",
+        "binaryname": "copsemu3300",
+        "emubinaryname": "copsemu3300",
         "releaseDate": "2026-07-23",
         "auto": "false",
         "changes": [
             "Updated for Loader v1.0",
-            "Added 3302 Support"
+            "Added 3300 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -461,8 +461,8 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3302",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3302",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3300",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3300",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
