@@ -59,7 +59,7 @@
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3210"
             },
             {
-                "gameversion": "1.70.0.f3212",
+                "gameversion": "1.80.0.f3212",
                 "binaryname": "copsroot3212",
                 "emubinaryname": "copsroot3212",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3212",
