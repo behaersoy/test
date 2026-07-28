@@ -20,14 +20,14 @@
         "type": "external",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.70.1.f3300",
+        "gameversion": "1.80.0.f3312",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsroot3300",
-        "releaseDate": "2026-07-23",
+        "binaryname": "copsroot3312",
+        "releaseDate": "2026-07-29",
         "auto": "false",
         "changes": [
             "Updated for Loader v1.0",
-            "Added 3300 Support"
+            "Added 3312 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -40,9 +40,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3300",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3300",
-        "emubinaryname": "copsroot3300",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3312",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3312",
+        "emubinaryname": "copsroot3312",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -57,13 +57,6 @@
                 "emubinaryname": "copsroot3210",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3210",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3210"
-            },
-            {
-                "gameversion": "1.80.0.f3212",
-                "binaryname": "copsroot3212",
-                "emubinaryname": "copsroot3212",
-                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3212",
-                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3212"
             },
             {
                 "gameversion": "1.70.0.f3224",
@@ -231,6 +224,13 @@
                 "emubinaryname": "copsroot3302",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3302",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3302"
+            },
+            {
+                "gameversion": "1.80.0.f3312",
+                "binaryname": "copsroot3312",
+                "emubinaryname": "copsroot3312",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3312",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3312"
             }
         ]
     },
