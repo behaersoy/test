@@ -440,15 +440,15 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.80.0.f3311",
+        "gameversion": "1.80.0.f3312",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3311",
-        "emubinaryname": "copsemu3311",
-        "releaseDate": "2026-07-27",
+        "binaryname": "copsemu3312",
+        "emubinaryname": "copsemu3312",
+        "releaseDate": "2026-07-28",
         "auto": "false",
         "changes": [
             "Updated for Loader v1.0",
-            "Added 3311 Support"
+            "Added 3312 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -461,8 +461,8 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3311",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3311",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3312",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3312",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -645,6 +645,13 @@
                 "emubinaryname": "copsemu3311",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3311",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3311"
+            },
+            {
+                "gameversion": "1.80.0.f3312",
+                "binaryname": "copsemu3312",
+                "emubinaryname": "copsemu3312",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3312",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3312"
             }
         ]
     },
