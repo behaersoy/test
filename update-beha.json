@@ -238,8 +238,8 @@
                 "emubinaryname": "copsroot3313",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3313",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3313"
-            }
-               {
+            },
+            {
                 "gameversion": "1.80.0.f3321",
                 "binaryname": "copsroot3321",
                 "emubinaryname": "copsroot3321",
@@ -460,8 +460,8 @@
                 "emubinaryname": "copsnoroot3313",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3313",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3313"
-            }
-              {
+            },
+            {
                 "gameversion": "1.80.0.f3321",
                 "binaryname": "copsnoroot3321",
                 "emubinaryname": "copsnoroot3321",
@@ -694,8 +694,8 @@
                 "emubinaryname": "copsemu3313",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3313",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3313"
-            }
-             {
+            },
+            {
                 "gameversion": "1.80.0.f3321",
                 "binaryname": "copsemu3321",
                 "emubinaryname": "copsemu3321",
