@@ -20,9 +20,9 @@
         "type": "external",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.80.0.f3313",
+        "gameversion": "1.80.0.f3321",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsroot3313",
+        "binaryname": "copsroot3321",
         "releaseDate": "2026-07-29",
         "auto": "false",
         "changes": [
@@ -239,6 +239,13 @@
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3313",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3313"
             }
+               {
+                "gameversion": "1.80.0.f3321",
+                "binaryname": "copsroot3321",
+                "emubinaryname": "copsroot3321",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3321",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3321"
+            }
         ]
     },
     {
@@ -246,9 +253,9 @@
         "type": "noroot",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.80.0.f3313",
+        "gameversion": "1.80.0.f3321",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsnoroot3313",
+        "binaryname": "copsnoroot3321",
         "releaseDate": "2026-07-29",
         "auto": "false",
         "changes": [
@@ -453,6 +460,13 @@
                 "emubinaryname": "copsnoroot3313",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3313",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3313"
+            }
+              {
+                "gameversion": "1.80.0.f3321",
+                "binaryname": "copsnoroot3321",
+                "emubinaryname": "copsnoroot3321",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3321",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3321"
             }
         ]
     },
