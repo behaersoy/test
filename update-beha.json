@@ -475,10 +475,10 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.80.0.f3321",
+        "gameversion": "1.80.0.f3330",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3321",
-        "emubinaryname": "copsemu3321",
+        "binaryname": "copsemu3330",
+        "emubinaryname": "copsemu3330",
         "releaseDate": "2026-07-29",
         "auto": "false",
         "changes": [
@@ -701,6 +701,13 @@
                 "emubinaryname": "copsemu3321",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3321",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3321"
+            },
+            {
+                "gameversion": "1.80.0.f3330",
+                "binaryname": "copsemu3330",
+                "emubinaryname": "copsemu3330",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3330",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3330"
             }
         ]
     },
