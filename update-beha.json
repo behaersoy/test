@@ -20,13 +20,13 @@
         "type": "external",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.80.0.f3363",
+        "gameversion": "1.80.0.f3371",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsroot3363",
-        "releaseDate": "2026-08-24",
+        "binaryname": "copsroot3371",
+        "releaseDate": "2026-08-28",
         "auto": "false",
         "changes": [
-            "Added 3363 Support"
+            "Added 3371 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -39,9 +39,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3363",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3363",
-        "emubinaryname": "copsroot3363",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3371",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3371",
+        "emubinaryname": "copsroot3371",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -307,6 +307,13 @@
                 "emubinaryname": "copsroot3363",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3363",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3363"
+            },
+            {
+                "gameversion": "1.80.0.f3371",
+                "binaryname": "copsroot3371",
+                "emubinaryname": "copsroot3371",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3371",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsroot3371"
             }
         ]
     },
@@ -315,13 +322,13 @@
         "type": "noroot",
         "gyro": "true",
         "version": "1.0",
-        "gameversion": "1.80.0.f3363",
+        "gameversion": "1.80.0.f3371",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsnoroot3363",
-        "releaseDate": "2026-08-24",
+        "binaryname": "copsnoroot3371",
+        "releaseDate": "2026-08-28",
         "auto": "false",
         "changes": [
-            "Added 3363 Support"
+            "Added 3371 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -334,9 +341,9 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3363",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3363",
-        "emubinaryname": "copsnoroot3363",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3371",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3371",
+        "emubinaryname": "copsnoroot3371",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -584,6 +591,13 @@
                 "emubinaryname": "copsnoroot3363",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3363",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3363"
+            },
+            {
+                "gameversion": "1.80.0.f3371",
+                "binaryname": "copsnoroot3371",
+                "emubinaryname": "copsnoroot3371",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3371",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsnoroot3371"
             }
         ]
     },
@@ -592,14 +606,14 @@
         "type": "emulator",
         "gyro": "false",
         "version": "1.0",
-        "gameversion": "1.80.0.f3363",
+        "gameversion": "1.80.0.f3371",
         "gamepkg": "com.criticalforceentertainment.criticalops",
-        "binaryname": "copsemu3363",
-        "emubinaryname": "copsemu3363",
-        "releaseDate": "2026-08-24",
+        "binaryname": "copsemu3371",
+        "emubinaryname": "copsemu3371",
+        "releaseDate": "2026-08-28",
         "auto": "false",
         "changes": [
-            "Added 3363 Support"
+            "Added 3371 Support"
         ],
         "blocked_ips": [
             "13.249.8.60",
@@ -612,8 +626,8 @@
             "216.239.32.223",
             "216.239.36.223"
         ],
-        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3363",
-        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3363",
+        "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3371",
+        "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3371",
         "versions": [
             {
                 "gameversion": "1.70.0.f3216",
@@ -880,6 +894,13 @@
                 "emubinaryname": "copsemu3363",
                 "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3363",
                 "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3363"
+            },
+            {
+                "gameversion": "1.80.0.f3371",
+                "binaryname": "copsemu3371",
+                "emubinaryname": "copsemu3371",
+                "libs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3371",
+                "emulibs": "https://github.com/behaersoy/test/raw/refs/heads/main/copsemu3371"
             }
         ]
     },
